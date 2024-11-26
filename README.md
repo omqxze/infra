@@ -1,3 +1,3 @@
 # infra
 
-dev infra
+test infra
