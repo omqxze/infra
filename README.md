@@ -1,3 +1,3 @@
 # infra
 
-test infra
+test infra test
