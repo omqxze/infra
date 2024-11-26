@@ -27,11 +27,11 @@ jobs:
       # Secrets 값 출력
       - name: Print Secret
         run: |
-          echo "=== DEV Secret Value ==="
+          echo "=== test Secret Value ==="
           echo "SECRET=${{ secrets.secret }}"
 
       # Vars 값 출력
       - name: Print Vars
         run: |
-          echo "=== DEV Vars Value ==="
+          echo "=== test Vars Value ==="
           echo "VARS=${{ vars.vars }}"
